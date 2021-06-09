@@ -1,0 +1,28 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body{
+    margin-top: 40px;
+    margin-right: 340px;
+}
+
+.sbox{
+    margin-left: 860px;
+}
+
+.imagebox{
+    margin-top: -64px;
+}
+
+.title{
+    padding-left: 20px;
+    padding-bottom: 4px;
+}
+
+.score{
+    margin-top: -400px;
+    margin-left: 100px;
+    margin-right: -1000px;
+}
